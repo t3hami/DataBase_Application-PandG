@@ -1,0 +1,52 @@
+C:\Users\Azeemi\AppData\Local\Temporary Projects\DataBase_Application[PandG]\bin\Debug\DataBase_Application[PandG].exe
+C:\Users\Azeemi\AppData\Local\Temporary Projects\DataBase_Application[PandG]\bin\Debug\DataBase_Application[PandG].pdb
+C:\Users\Azeemi\AppData\Local\Temporary Projects\DataBase_Application[PandG]\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Azeemi\AppData\Local\Temporary Projects\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Properties.Resources.resources
+C:\Users\Azeemi\AppData\Local\Temporary Projects\DataBase_Application[PandG]\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Azeemi\AppData\Local\Temporary Projects\DataBase_Application[PandG]\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Azeemi\AppData\Local\Temporary Projects\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application[PandG].exe
+C:\Users\Azeemi\AppData\Local\Temporary Projects\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application[PandG].pdb
+C:\Users\Azeemi\AppData\Local\Temporary Projects\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Form1.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application[PandG].exe
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application[PandG].pdb
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\bin\Debug\DataBase_Application[PandG].exe
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\bin\Debug\DataBase_Application[PandG].pdb
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Form1.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Properties.Resources.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Form2.resources
+C:\Users\Azeemi\Documents\Visual Studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.AboutMe.resources
+C:\Users\Azeemi\Documents\Visual Studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Customer.resources
+C:\Users\Azeemi\Documents\Visual Studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Vendor.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.POCreation.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.POApproval.resources
+C:\Users\Azeemi\Documents\Visual Studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.GRN.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.SOCreation.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.SOApproval.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.DC.resources
+C:\Users\Azeemi\Documents\Visual Studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.InvoicePayable.resources
+C:\Users\Azeemi\Documents\Visual Studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.InvoiceRecievable.resources
+C:\Users\Azeemi\documents\visual studio 2010\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.User.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application[PandG].exe
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application[PandG].pdb
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\bin\Debug\DataBase_Application[PandG].exe
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\bin\Debug\DataBase_Application[PandG].pdb
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application[PandG].csprojResolveAssemblyReference.cache
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.AboutMe.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Customer.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.DC.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Form1.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Form2.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.GRN.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.InvoicePayable.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.InvoiceRecievable.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.POApproval.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.POCreation.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Properties.Resources.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.SOApproval.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.SOCreation.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.User.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application_PandG_.Vendor.resources
+C:\Users\Muhammad Tehami\Documents\Visual Studio 2012\Projects\DataBase_Application[PandG]\DataBase_Application[PandG]\obj\x86\Debug\DataBase_Application[PandG].csproj.GenerateResource.Cache
